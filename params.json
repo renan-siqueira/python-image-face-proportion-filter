@@ -1,0 +1,5 @@
+{
+    "image_folder_path": "images",
+    "output_folder_path": "output",
+    "face_ratio": 0.055
+}
